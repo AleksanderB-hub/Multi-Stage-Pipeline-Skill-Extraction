@@ -7,17 +7,13 @@ import os
 
 # custom functions
 
-from model_for_upload import (
-    ContrastiveTrainer,
-    ContrastiveSkillDataset,
-    ContrastiveSkillEncoder,
-    SkillEvaluator,
-    ContrastiveLossWrapper,
-    SimplifiedContrastiveCollator,
-    create_parser
-)
-
-from model.refine import RefinementTrainer
+from ContrastiveTrainer import ContrastiveTrainer
+from ContrastiveSkillDataset import ContrastiveSkillDataset
+from ContrastiveSkillEncoder import ContrastiveSkillEncoder
+from SkillEvaluator import SkillEvaluator
+from Loss import ContrastiveLossWrapper
+from SimplifiedContrastiveCollator import SimplifiedContrastiveCollator
+from arguments_contrastive import create_parser
 
 # env params
 os.environ["TOKENIZERS_PARALLELISM"] = "false"

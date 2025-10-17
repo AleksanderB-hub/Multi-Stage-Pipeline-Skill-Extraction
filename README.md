@@ -41,7 +41,7 @@ We thank the original authors for making these datasets publicly available. Plea
 
 ### Cite
 If you use this resource, please use the following citation:
-
+'''
 @inproceedings{bielinski2025retrieval,
   articleno    = {{5}},
   author       = {Bielinski, Aleksander and Brazier, David},
@@ -57,3 +57,4 @@ If you use this resource, please use the following citation:
   volume       = {{4046}},
   year         = {{2025}},
 }
+'''

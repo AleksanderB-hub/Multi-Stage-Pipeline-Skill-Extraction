@@ -38,3 +38,22 @@ We redistribute all the training and test data to ensure a smoother implementati
 - [SKILLSKAPE](https://github.com/magantoine/JobSkape/tree/main)
 
 We thank the original authors for making these datasets publicly available. Please remember to cite them appropriately in any work using these resources.
+
+### Cite
+If you use this resource, please use the following citation:
+
+@inproceedings{bielinski2025retrieval,
+  articleno    = {{5}},
+  author       = {Bielinski, Aleksander and Brazier, David},
+  booktitle    = {{Proceedings of the 5th Workshop on Recommender Systems for Human Resources (RecSys-in-HR 2025), in conjunction with the 16th ACM Conference on Recommender Systems}},
+  editor       = {{Bogers, Toine and Bied, Guillaume and Decorte, Jean-Joris and Johnson, Chris and Kaya, Mesut}},
+  issn         = {{1613-0073}},
+  language     = {{eng}},
+  location     = {{Prague, Czech Republic}},
+  pages        = {{10}},
+  publisher    = {{CEUR}},
+  title        = {{From Retrieval to Ranking: A Two-Stage Neural Framework for Automated Skill Extraction}},
+  url          = {{https://ceur-ws.org/Vol-4046/RecSysHR2025-paper_5.pdf}},
+  volume       = {{4046}},
+  year         = {{2025}},
+}

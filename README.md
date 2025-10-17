@@ -45,7 +45,7 @@ If you use this resource, please use the following citation:
 @inproceedings{bielinski2025retrieval,
   articleno    = {{5}},
   author       = {Bielinski, Aleksander and Brazier, David},
-  booktitle    = {{Proceedings of the 5th Workshop on Recommender Systems for Human Resources (RecSys-in-HR 2025), in conjunction with the 16th ACM Conference on Recommender Systems}},
+  booktitle    = {{Proceedings of the 5th Workshop on Recommender Systems for Human Resources (RecSys-in-HR 2025), in conjunction with the 19th ACM Conference on Recommender Systems}},
   editor       = {{Bogers, Toine and Bied, Guillaume and Decorte, Jean-Joris and Johnson, Chris and Kaya, Mesut}},
   issn         = {{1613-0073}},
   language     = {{eng}},
